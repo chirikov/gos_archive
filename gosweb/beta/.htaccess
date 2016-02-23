@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName '2nd beta'
+AuthUserFile /home/u29794/www/beta/.htpasswd
+Require valid-user
